@@ -35,14 +35,6 @@ Hyperparameter sweeps and validation experiments were performed to reduce overfi
 
 ---
 
-## 👩‍💻 My Contribution  
-
-- Implemented and tuned **LinearSVC**, optimizing `C=0.1` for best bias/variance balance.  
-- Co-authored the **Results** and **Insights** sections of the report.  
-- Analyzed overfitting and regularization trends through learning curves and parameter sweeps.  
-
----
-
 ## 🚀 How to Run  
 
 ```bash
