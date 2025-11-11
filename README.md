@@ -53,8 +53,3 @@ jupyter notebook project.ipynb
 
 
 ⸻
-
-📈 Future Work
-	•	Integrate TF-IDF and word embeddings (Word2Vec, BERT).
-	•	Compare traditional ML against Transformer-based approaches.
-	•	Expand dataset and analyze domain transfer to other review types.
